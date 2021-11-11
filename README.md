@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mMomarMm
-- 👀 I’m interested in game dev and learning AI
+- 👀 I’m interested in game dev
 - 🌱 I’m currently learning game dev
 - 💞️ I’m looking to collaborate on games
 - 📫 How to reach me Gmail:omarzc1609@gmail.com
